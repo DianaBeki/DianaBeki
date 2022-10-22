@@ -1,11 +1,7 @@
 <h1 align="center">Hello Everyone<img align="center" src = "https://media0.giphy.com/media/1ynCEtlgMPAeNAqdnu/giphy.gif?cid=6c09b9523oyjdwoectd4e3qv2ym9cpyql4lfwunnb11lw6cn&rid=giphy.gif&ct=s" width=40px ></h1>
 <h3 align="center"> I'm Diana, A passionate Software developer from Nairobi, Kenya</h3>
 
-- 🌱 I’m currently doing a software engineering programme with @ALX
 
-- 👯 I’m looking to collaborate on open source projects
-
-- 💬 Ask me anything about C 
  <br>
 <div align="center">
   <img src="https://media3.giphy.com/media/RbDKaczqWovIugyJmW/200.gif" width="1000" height="300"/>
