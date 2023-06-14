@@ -3,18 +3,20 @@
 <h3 align="center">A passionate Front-end developer from Nairobi, Kenya</h3>
 
 <br>
-
+<div class="d-flex flex-justify-between">
+<div class="flex-1">
 <ul>
   <li>💻 Proficient in HTML: I write clean, semantic HTML code to build the structure and foundation of web pages.</li>
   <li>🎨 Skilled in CSS: I apply my knowledge of CSS to create beautiful and responsive designs, ensuring an engaging user interface.</li>
   <li>⚡ JavaScript Enthusiast: I love working with JavaScript to add interactivity and dynamic functionality to websites, enhancing the user experience.</li>
   <li>🅱️ Bootstrap Advocate: I utilize Bootstrap to develop mobile-first and responsive websites, making use of its components and grid system.</li>
 </ul>
-
-Let's collaborate and create exceptional web solutions! Feel free to explore my repositories and connect with me. 😄
-
-<div align="center">
+<p>Let's collaborate and create exceptional web solutions! Feel free to explore my repositories and connect with me. 😄</p>
+</div>
+	
+</div class="flex-1">
   <img src="https://media3.giphy.com/media/RbDKaczqWovIugyJmW/200.gif" width="900" height="300"/>
+</div>
 </div>
 
 <h3 align="left">Connect with me:</h3>
@@ -33,3 +35,7 @@ Let's collaborate and create exceptional web solutions! Feel free to explore my 
   <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg" title="ubuntu" alt="ubuntu" width="40" height="40" />
 	    <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/c25dc2718f1ecf4959b961a883ba74c3aa6eda5cc2bbb733cdcae99c426d8e95/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f637373332d2532333135373242362e7376673f7374796c653d666c61742d737175617265266c6f676f3d63737333266c6f676f436f6c6f723d7768697465">
 <img src="https://camo.githubusercontent.com/c25dc2718f1ecf4959b961a883ba74c3aa6eda5cc2bbb733cdcae99c426d8e95/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f637373332d2532333135373242362e7376673f7374796c653d666c61742d737175617265266c6f676f3d63737333266c6f676f436f6c6f723d7768697465" alt="CSS3" data-canonical-src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&amp;logo=css3&amp;logoColor=white" width="40" height="40" style="max-width: 100%;">
+<img src="https://github.com/devicons/devicon/raw/master/icons/vscode/vscode-original.svg" title="vscode" width="40" height="40" style="max-width: 100%;">
+		    <img src="https://github.com/devicons/devicon/raw/master/icons/vim/vim-original.svg" title="vim" width="40" height="40" style="max-width: 100%;">
+		    <img src="https://camo.githubusercontent.com/06b0ed212bf5bae6c044ba0b4a708f97ca82a23e38b089dfc4f97ba239a35cc8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a6176617363726970742d2532333332333333302e7376673f7374796c653d666c61742d737175617265266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d253233463744463145" alt="JavaScript" data-canonical-src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&amp;logo=javascript&amp;logoColor=%23F7DF1E" style="max-width: 100%;">
+</p>
