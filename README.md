@@ -16,7 +16,7 @@
 </div>
 	
 </div class="flex-1">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMowh0v9N12CKpLMhWZdUatVwPnHAP_IVAlA&usqp=CAU" width="900" height="300"/>
+  <img src="https://gifdb.com/images/high/animated-chock-coding-c78f6elj32sfoi8q.gif" width="900" height="300"/>
 </div>
 </div>
 
