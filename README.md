@@ -16,7 +16,7 @@
 </div>
 	
 </div class="flex-1">
-  <img src="https://media3.giphy.com/media/RbDKaczqWovIugyJmW/200.gif" width="900" height="300"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMowh0v9N12CKpLMhWZdUatVwPnHAP_IVAlA&usqp=CAU" width="900" height="300"/>
 </div>
 </div>
 
