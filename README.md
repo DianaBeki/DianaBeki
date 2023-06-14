@@ -12,7 +12,7 @@
   <li>🅱️ Bootstrap Advocate: I utilize Bootstrap to develop mobile-first and responsive websites, making use of its components and grid system.</li>
 </ul>
 <p>Let's collaborate and create exceptional web solutions! Feel free to explore my repositories and connect with me. 😄</p>
-<p>If you are looking for a proficient front end developer please dont hesitate to contact me</p>
+<p>Am currently available for hire and also available to new job opportunities</p>
 </div>
 	
 </div class="flex-1">
