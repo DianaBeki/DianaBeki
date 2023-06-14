@@ -1,38 +1,35 @@
-<h1 align="center">Hello Everyone<img align="center" src = "https://media0.giphy.com/media/1ynCEtlgMPAeNAqdnu/giphy.gif?cid=6c09b9523oyjdwoectd4e3qv2ym9cpyql4lfwunnb11lw6cn&rid=giphy.gif&ct=s" width=40px ></h1>
-<h3 align="center"> I'm Diana, A passionate Software developer from Nairobi, Kenya</h3>
+<h1 align="center">Hello <img class="emoji" alt="wave" height="30" width="30" src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png">, I'm Diana Beki</h1>
 
+<h3 align="center">A passionate Front-end developer from Nairobi, Kenya</h3>
 
- <br>
+<br>
+
+<ul>
+  <li>💻 Proficient in HTML: I write clean, semantic HTML code to build the structure and foundation of web pages.</li>
+  <li>🎨 Skilled in CSS: I apply my knowledge of CSS to create beautiful and responsive designs, ensuring an engaging user interface.</li>
+  <li>⚡ JavaScript Enthusiast: I love working with JavaScript to add interactivity and dynamic functionality to websites, enhancing the user experience.</li>
+  <li>🅱️ Bootstrap Advocate: I utilize Bootstrap to develop mobile-first and responsive websites, making use of its components and grid system.</li>
+</ul>
+
+Let's collaborate and create exceptional web solutions! Feel free to explore my repositories and connect with me. 😄
+
 <div align="center">
-  <img src="https://media3.giphy.com/media/RbDKaczqWovIugyJmW/200.gif" width="1000" height="300"/>
+  <img src="https://media3.giphy.com/media/RbDKaczqWovIugyJmW/200.gif" width="900" height="300"/>
 </div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<!-- <a href="https://codepen.io/somekindofwallflower" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="somekindofwallflower" height="30" width="40" /></a> -->
-<a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="wallflower408" height="30" width="40" /></a>
-<!-- <a href="https://stackoverflow.com/users/17074530" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17074530" height="30" width="40" /></a> -->
-<a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="programmerscrunity" height="30" width="40" /></a>
-<!-- <a href="https://www.hackerrank.com/w4llfl0w3r13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="w4llfl0w3r13" height="30" width="40" /></a> -->
-<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="wallflower#7007" height="30" width="40" /></a>
+  <a href="https://twitter.com/home" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="wallflower408" height="30" width="30" /></a>
+  <a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahdi-noori-hc201" height="30" width="40" style="max-width: 100%;"></a>
+  <a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="wallflower#7007" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>  <a href="https://firebase.google.com/" target="_blank"> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="GitHub" **alt="GitHub" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg" title="ubuntu" **alt="ubuntu" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" title="vim" **alt="vim" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="vscode" **alt="vscode" width="40" height="40"/>
-
-		
-<p align="center">
-  <img width="400em" src="https://github-readme-stats.vercel.app/api?username=DianaBeki&show_icons=true&locale=en&theme=radical"                alt="somekindofwallflower"/>
-  <img width="400em" src="https://github-readme-streak-stats.herokuapp.com/?user=DianaBeki&theme=radical" alt="somekindofwallflower" />
-</p>
-
-<!-- <p align="center"> 
-  <img width="600em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=somekindofwallflower&layout=compact&langs_count=999&include_all_commits=true&hide_progress=true&hide_border=true&theme=radical&hide=">
-</p> -->
-
-
-
+<p align="left">
+  <a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" /></a>
+  <a href="https://firebase.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" /></a>
+  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /></a>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="GitHub" alt="GitHub" width="40" height="40" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg" title="ubuntu" alt="ubuntu" width="40" height="40" />
+	    <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/c25dc2718f1ecf4959b961a883ba74c3aa6eda5cc2bbb733cdcae99c426d8e95/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f637373332d2532333135373242362e7376673f7374796c653d666c61742d737175617265266c6f676f3d63737333266c6f676f436f6c6f723d7768697465">
+<img src="https://camo.githubusercontent.com/c25dc2718f1ecf4959b961a883ba74c3aa6eda5cc2bbb733cdcae99c426d8e95/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f637373332d2532333135373242362e7376673f7374796c653d666c61742d737175617265266c6f676f3d63737333266c6f676f436f6c6f723d7768697465" alt="CSS3" data-canonical-src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&amp;logo=css3&amp;logoColor=white" width="40" height="40" style="max-width: 100%;">
