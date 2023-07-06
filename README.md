@@ -5,12 +5,7 @@
 <br>
 <div class="d-flex flex-justify-between">
 <div class="flex-1">
-<ul>
-  <li>💻 Proficient in HTML: I write clean, semantic HTML code to build the structure and foundation of web pages.</li>
-  <li>🎨 Skilled in CSS: I apply my knowledge of CSS to create beautiful and responsive designs, ensuring an engaging user interface.</li>
-  <li>⚡ JavaScript Enthusiast: I love working with JavaScript to add interactivity and dynamic functionality to websites, enhancing the user experience.</li>
-  <li>🅱️ Bootstrap Advocate: I utilize Bootstrap to develop mobile-first and responsive websites, making use of its components and grid system.</li>
-</ul>
+<p>Hello, I'm  a Front-End Developer who loves creating attractive and user-friendly websites. I'm really good at using HTML, CSS, and JavaScript. I also know how to use Bootstrap and React to build cool and interactive web apps. I pay a lot of attention to design and make sure my code is easy to understand and maintain. I'm always excited to learn new things and keep up with the latest web development trends. Let's work together and make your website awesome!</p>
 <p>Let's collaborate and create exceptional web solutions! Feel free to explore my repositories and connect with me. 😄</p>
 <p>Am currently available for hire and also available to new job opportunities</p>
 </div>
