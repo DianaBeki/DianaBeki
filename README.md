@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Front-end developer from Nairobi, Kenya</h3>
 
 <br>
-<div class="d-grid">
+<div class="d-flex flex-column">
 <div class="flex-1">
 <p>Hello, I'm  a Front-End Developer who loves creating attractive and user-friendly websites. I'm really good at using HTML, CSS, and JavaScript. I also know how to use Bootstrap and React to build cool and interactive web apps. I pay a lot of attention to design and make sure my code is easy to understand and maintain. I'm always excited to learn new things and keep up with the latest web development trends. Let's work together and make your website awesome!</p>
 <p>Let's collaborate and create exceptional web solutions! Feel free to explore my repositories and connect with me. 😄</p>
