@@ -3,15 +3,10 @@
 <h3 align="center">A passionate Full-stack developer</h3>
 
 <br>
-<div class="">
-  <div align="left">
-    <p> Full Stack Developer with skills in HTML, CSS, JavaScript, React, and Node.js. Specializing in crafting smooth web experiences from start to finish. Committed to clean code, user-friendly designs, and currently available for hire and open to new job opportunities 🚀🌐</p>
-  </div>
 
-  <div align="right">
-    <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3kxZzVsenZndzBqb29xdGZhdmd2MDZ1Mm9hZTFwMWQ1bTE2cmoxZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Vh1KrUr6Tvl1RFYYk6/giphy.gif" width="400" height="400"/>
-  </div>
-</div>
+    <p align="left"> Full Stack Developer with skills in HTML, CSS, JavaScript, React, and Node.js. Specializing in crafting smooth web experiences from start to finish. Committed to clean code, user-friendly designs, and currently available for hire and open to new job opportunities 🚀🌐</p>
+  
+    <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3kxZzVsenZndzBqb29xdGZhdmd2MDZ1Mm9hZTFwMWQ1bTE2cmoxZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Vh1KrUr6Tvl1RFYYk6/giphy.gif" align="right" width="400" height="400"/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
