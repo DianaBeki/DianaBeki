@@ -2,9 +2,9 @@
 <h3 align="center">FULL STACK DEVELOPER</h3>
     <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3kxZzVsenZndzBqb29xdGZhdmd2MDZ1Mm9hZTFwMWQ1bTE2cmoxZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Vh1KrUr6Tvl1RFYYk6/giphy.gif" align="right" width="300" height="200"/>
     
-- 🌱 I’m a Full-stack software developer and my goal is to make user-friendly web apps for smooth web experiences from start to finish.
-- 
-- 💬 Ask me about **JavaScript, React, Redux, Node.js, Tailwind**
+- 🌱  Full-stack Developer dedicated to crafting seamless and user-friendly web applications for optimal user experiences.
+  
+- 💬 Ask me about **JavaScript, React, Redux, Node.js**
 - 
 - 📫 Email me **dianabeki54@gmail.com**
 - 
