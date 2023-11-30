@@ -1,12 +1,16 @@
 <h1 align="center">Hello <img class="emoji" alt="wave" height="30" width="30" src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png">, I'm Diana Beki</h1>
-
 <h3 align="center">A passionate Full-stack developer</h3>
+    <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3kxZzVsenZndzBqb29xdGZhdmd2MDZ1Mm9hZTFwMWQ1bTE2cmoxZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Vh1KrUr6Tvl1RFYYk6/giphy.gif" align="right" width="400"/>
+    
+- 🌱 I’m a Full-stack software developer and my goal is to make user-friendly designs for smooth web experiences from start to finish.
 
-<br>
+- 💬 Ask me about **JavaScript, React, Redux, Node.js, Tailwind**
 
-    <p align="left"> Full Stack Developer with skills in HTML, CSS, JavaScript, React, and Node.js. Specializing in crafting smooth web experiences from start to finish. Committed to clean code, user-friendly designs, and currently available for hire and open to new job opportunities 🚀🌐</p>
-  
-    <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3kxZzVsenZndzBqb29xdGZhdmd2MDZ1Mm9hZTFwMWQ1bTE2cmoxZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Vh1KrUr6Tvl1RFYYk6/giphy.gif" align="right" width="400" height="400"/>
+- 📫 Email me **dianabeki54@gmail.com**
+
+- 💻 View my Portfolio: (Coming soon)[]
+
+- ⚡ Fun fact: I'm a Hip-Hop aficionado, transforming every moment into a vibe-worthy life soundtrack! 🎶 **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
