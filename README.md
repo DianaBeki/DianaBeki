@@ -4,16 +4,39 @@
 
 <br>
 <div class="container">
-<div class="flex-1">
-<p>Hello, I'm  a Front-End Developer who loves creating attractive and user-friendly websites. I'm really good at using HTML, CSS, and JavaScript. I also know how to use Bootstrap and React to build cool and interactive web apps. I pay a lot of attention to design and make sure my code is easy to understand and maintain. I'm always excited to learn new things and keep up with the latest web development trends. Let's work together and make your website awesome!</p>
-<p>Let's collaborate and create exceptional web solutions! Feel free to explore my repositories and connect with me. 😄</p>
-<p>Am currently available for hire and also available to new job opportunities</p>
+  <div class="flex-1">
+    <p>Hello, I'm a Front-End Developer who loves creating attractive and user-friendly websites. I'm really good at using HTML, CSS, and JavaScript. I also know how to use Bootstrap and React to build cool and interactive web apps. I pay a lot of attention to design and make sure my code is easy to understand and maintain. I'm always excited to learn new things and keep up with the latest web development trends. Let's work together and make your website awesome!</p>
+    <p>Let's collaborate and create exceptional web solutions! Feel free to explore my repositories and connect with me. 😄</p>
+    <p>Currently available for hire and open to new job opportunities.</p>
+  </div>
+
+  <div class="flex-1">
+    <img src="https://gifdb.com/images/high/animated-chock-coding-c78f6elj32sfoi8q.gif" width="900" height="300"/>
+  </div>
 </div>
-	
-</div class="flex-1">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3kxZzVsenZndzBqb29xdGZhdmd2MDZ1Mm9hZTFwMWQ1bTE2cmoxZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Vh1KrUr6Tvl1RFYYk6/giphy.gif" width="900" height="300"/>
-</div>
-</div>
+
+<style>
+  .container {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 16px;
+    margin-bottom: 20px; /* Adjust margin as needed */
+  }
+
+  .flex-1 {
+    flex: 1;
+  }
+
+  .container p {
+    margin-bottom: 10px; /* Add spacing between paragraphs */
+  }
+
+  .item {
+    padding: 16px;
+    border: 1px solid #ddd;
+    /* Add more styles as needed */
+  }
+</style>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
