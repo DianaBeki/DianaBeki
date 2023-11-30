@@ -3,13 +3,8 @@
     <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3kxZzVsenZndzBqb29xdGZhdmd2MDZ1Mm9hZTFwMWQ1bTE2cmoxZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Vh1KrUr6Tvl1RFYYk6/giphy.gif" align="right" width="400" height="300"/>
     
 - 🌱 I’m a Full-stack software developer and my goal is to make user-friendly web apps for smooth web experiences from start to finish.
-
 - 💬 Ask me about **JavaScript, React, Redux, Node.js, Tailwind**
-
 - 📫 Email me **dianabeki54@gmail.com**
-
-- 💻 View my Portfolio: (Coming soon)[]
-
 - ⚡ Fun fact: I'm a Hip-Hop aficionado, transforming every moment into a vibe-worthy life soundtrack! 🎶 **
 
 <h3 align="left">Connect with me:</h3>
