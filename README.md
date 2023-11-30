@@ -2,7 +2,7 @@
 <h3 align="center">FULL STACK DEVELOPER</h3>
     <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3kxZzVsenZndzBqb29xdGZhdmd2MDZ1Mm9hZTFwMWQ1bTE2cmoxZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Vh1KrUr6Tvl1RFYYk6/giphy.gif" align="right" width="400" height="300"/>
     
-- 🌱 I’m a Full-stack software developer and my goal is to make user-friendly designs for smooth web experiences from start to finish.
+- 🌱 I’m a Full-stack software developer and my goal is to make user-friendly web applications for smooth web experiences from start to finish.
 
 - 💬 Ask me about **JavaScript, React, Redux, Node.js, Tailwind**
 
