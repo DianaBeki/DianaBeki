@@ -5,10 +5,10 @@
 - 🌱  Full-stack Developer dedicated to crafting seamless and user-friendly web applications for optimal user experiences.
   
 - 💬 Ask me about **JavaScript, React, Redux, Node.js**
-- 
+  
 - 📫 Email me **dianabeki54@gmail.com**
 - 
-- ⚡ Fun fact: I'm a Hip-Hop aficionado, transforming every moment into a vibe-worthy life soundtrack! 🎶 **
+- ⚡ Fun fact: I'm a Hip-Hop aficionado, transforming every moment into a vibe-worthy! 🎶 **
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
