@@ -1,6 +1,6 @@
 <h1 align="center">Hello <img class="emoji" alt="wave" height="30" width="30" src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png">, I'm Diana Beki</h1>
 <h3 align="center">FULL STACK DEVELOPER</h3>
-    <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3kxZzVsenZndzBqb29xdGZhdmd2MDZ1Mm9hZTFwMWQ1bTE2cmoxZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Vh1KrUr6Tvl1RFYYk6/giphy.gif" align="right" width="400" height="300"/>
+    <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3kxZzVsenZndzBqb29xdGZhdmd2MDZ1Mm9hZTFwMWQ1bTE2cmoxZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Vh1KrUr6Tvl1RFYYk6/giphy.gif" align="right" width="300" height="200"/>
     
 - 🌱 I’m a Full-stack software developer and my goal is to make user-friendly web apps for smooth web experiences from start to finish.
 - 
@@ -10,8 +10,8 @@
 - 
 - ⚡ Fun fact: I'm a Hip-Hop aficionado, transforming every moment into a vibe-worthy life soundtrack! 🎶 **
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
   <a href="https://twitter.com/home" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="wallflower408" height="30" width="30" /></a>
   <a href="https://www.linkedin.com/in/diana-beki/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahdi-noori-hc201" height="30" width="40" style="max-width: 100%;"></a>
   <a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="wallflower#7007" height="30" width="40" /></a>
