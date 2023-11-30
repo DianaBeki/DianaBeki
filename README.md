@@ -8,8 +8,8 @@
   
 - 📫 Email me **dianabeki54@gmail.com**
   
-- ⚡ Fun fact: I'm a Hip-Hop aficionado, transforming every moment into a vibe-worthy! 🎶 **
-
+- ⚡ Fun fact: I'm a Hip-Hop aficionado, transforming every moment into a vibe-worthy! 🎶 
+<br />
 <h3 align="center">Connect with me:</h3>
 <p align="center">
   <a href="https://twitter.com/home" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="wallflower408" height="30" width="30" /></a>
