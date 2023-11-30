@@ -1,6 +1,6 @@
 <h1 align="center">Hello <img class="emoji" alt="wave" height="30" width="30" src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png">, I'm Diana Beki</h1>
 <h3 align="center">FULL STACK DEVELOPER</h3>
-    <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3kxZzVsenZndzBqb29xdGZhdmd2MDZ1Mm9hZTFwMWQ1bTE2cmoxZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Vh1KrUr6Tvl1RFYYk6/giphy.gif" align="right" width="400" height="350"/>
+    <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3kxZzVsenZndzBqb29xdGZhdmd2MDZ1Mm9hZTFwMWQ1bTE2cmoxZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Vh1KrUr6Tvl1RFYYk6/giphy.gif" align="right" width="350" height="350"/>
     
 - 🌱 I’m a Full-stack software developer and my goal is to make user-friendly web apps for smooth web experiences from start to finish.
 - 
