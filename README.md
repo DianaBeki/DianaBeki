@@ -31,8 +31,3 @@
 		    <img src="https://github.com/devicons/devicon/raw/master/icons/vim/vim-original.svg" title="vim" width="40" height="40" style="max-width: 100%;">
 		    <img src="https://camo.githubusercontent.com/06b0ed212bf5bae6c044ba0b4a708f97ca82a23e38b089dfc4f97ba239a35cc8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a6176617363726970742d2532333332333333302e7376673f7374796c653d666c61742d737175617265266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d253233463744463145" alt="JavaScript" data-canonical-src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&amp;logo=javascript&amp;logoColor=%23F7DF1E" style="max-width: 100%;">
 </p> 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dianabeki&show_icons=true&locale=en&layout=compact" alt="dianabeki" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dianabeki&show_icons=true&locale=en" alt="dianabeki" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dianabeki&" alt="dianabeki" /></p>
