@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Full-stack developer</h3>
 
 <br>
-<div class="flex">
+<div class="container">
 <div class="flex-1">
 <p>Hello, I'm  a Front-End Developer who loves creating attractive and user-friendly websites. I'm really good at using HTML, CSS, and JavaScript. I also know how to use Bootstrap and React to build cool and interactive web apps. I pay a lot of attention to design and make sure my code is easy to understand and maintain. I'm always excited to learn new things and keep up with the latest web development trends. Let's work together and make your website awesome!</p>
 <p>Let's collaborate and create exceptional web solutions! Feel free to explore my repositories and connect with me. 😄</p>
@@ -11,7 +11,7 @@
 </div>
 	
 </div class="flex-1">
-  <img src="https://gifdb.com/images/high/animated-chock-coding-c78f6elj32sfoi8q.gif" width="900" height="300"/>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3kxZzVsenZndzBqb29xdGZhdmd2MDZ1Mm9hZTFwMWQ1bTE2cmoxZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Vh1KrUr6Tvl1RFYYk6/giphy.gif" width="900" height="300"/>
 </div>
 </div>
 
